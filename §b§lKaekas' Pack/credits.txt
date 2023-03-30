@@ -1,0 +1,11 @@
+Kaekas' Scythes, GUI
+
+
+Zombies+
+
+Vanilla Tweaks Resource Pack
+Version: 1.19
+Packs:
+	ItemStitchingFix,	RedstoneWireFix,	DripleafFixBig,	DripleafFixSmall,	ConsistentTadpoleBucket,	CactusBottomFix,	TripwireHookFix,	PixelConsistentSigns,	PixelConsistentXPOrbs,	BlazeFix,	SlimeParticleFix,	NoBowlParticles,	IronBarsFix,	CatFix,	CloudFogFix	BedrockTitle,	DungeonsAlexSteve,	SmileyAxolotls,	Beeralis,	NoPanoramaOverlay,	GeodePanorama,	DeepslateBG,	NoOptionsBGOverlay,	SmootherFont,	DarkUI1193,	PingColorIndicator,	MoreCrosshairs-4Angled,	3DMushrooms,	3DSugarcane,	3DChains	LowerShield,	UnobtrusiveRain,	UnobtrusiveSnow,	UnobtrusiveParticles,	UnobtrusiveScaffolding,	DiminishingTools,	VisualInfestedStoneItems,	Age25Kelp,	MineProgressBar,	ClearBannerPatterns,	HungerPreview,	DirectionalDispensersDroppers,	RedstonePowerLevels,	UnlitRedstoneOre,	VisibleTripwires,	GroovyLevers,	CompassLodestone,	VisualHoney,	VisualCauldronStages,	VisualComposterStages,	VisualSaplingGrowth,	NoteblockBanners,	NoCaveSounds,	QuieterNetherPortals,	QuieterWater,	QuieterPistons,	VariatedDirt,	RandomCoarseDirtRotation,	VariatedGrass,	VariatedCobblestone,	RandomMossRotation,	VariatedBricks,	VariatedLogs,	VariatedMushroomBlocks,	VariatedGravel,	VariatedEndStone,	VariatedMycelium,	VariatedPlanks,	VariatedBookshelves,	VariatedUnpolishedStones,	VariatedTerracotta,	VariatedStone,	WavyWater,	UniversalLushGrass,	BetterBedrock,	CircularSunandMoon,	TwinklingStars,	CircleLogTops,	SmootherOakLog,	SmootherStones,	BrighterNether,	ClearerWater,	ShorterTallGrass,	ShorterGrass,	CherryPicking,	DifferentStems,	WarmGlow,	HorizontalNuggets,	SofterWool,	RedIronGolemFlowers,	BetterParticles,	HDShieldBanners,	PinkEndRods,	UniqueDyes,	AnimatedCampfireItem,	SplashXpBottle,	AccurateSpyglass,	SmootherWarpedPlanks,	SingularGlazedTerracotta,	HorizontalWorldBorder,	GoldenCrown,	ConcorpWings,	HopperBottomFix,	DirectionalHoppers,	SoulSoilSoulCampfire,	AshlessCampfires,	StickyPistonSides,	BedrockPistonArms,	JappaObserver,	BetterObservers,	WavyPlants,	WavyLeaves,	BushyLeaves
+Combined packs:
+	BushyLeaves+WavyLeaves+WavyPlants,	BetterObservers+JappaObserver,	BedrockPistonArms+StickyPistonSides,	AshlessCampfires+SoulSoilSoulCampfire,	DirectionalHoppers+HopperBottomFix,
